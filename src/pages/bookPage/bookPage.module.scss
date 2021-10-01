@@ -1,0 +1,35 @@
+.wrapper {
+    display: flex;
+}
+.imageWrapper  {
+    background-color: #f3f2f1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    padding:50px;
+    img {
+        width: 350px;
+    }
+}
+.infoWrapper {
+    width: 60%;
+    padding:50px;
+}
+.categories {
+    height: 14px;
+    font-size: 14px;
+    color: black;
+    opacity: 0.65;
+    margin-bottom: 50px;
+}
+.authorWrapper {
+    color: #bbb;
+    margin: 30px 0;
+    span {
+    text-decoration:underline;
+    }
+}
+.preview {
+    text-align: center;
+}

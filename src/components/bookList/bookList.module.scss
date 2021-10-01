@@ -1,0 +1,16 @@
+.wrapper {
+    width: 90%;
+    margin: 20px auto;
+}
+.contentWrapper {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+row-gap: 20px;
+column-gap: 20px;
+}
+.preview,
+.count {
+    text-align: center;
+    margin: 20px;
+    font-size: 18px;
+}
