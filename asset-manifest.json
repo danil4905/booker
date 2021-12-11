@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/booker/static/css/main.7d231838.chunk.css",
+    "main.js": "/booker/static/js/main.05a8f9a4.chunk.js",
+    "main.js.map": "/booker/static/js/main.05a8f9a4.chunk.js.map",
+    "runtime-main.js": "/booker/static/js/runtime-main.17b03de7.js",
+    "runtime-main.js.map": "/booker/static/js/runtime-main.17b03de7.js.map",
+    "static/js/2.834b39ce.chunk.js": "/booker/static/js/2.834b39ce.chunk.js",
+    "static/js/2.834b39ce.chunk.js.map": "/booker/static/js/2.834b39ce.chunk.js.map",
+    "index.html": "/booker/index.html",
+    "static/css/main.7d231838.chunk.css.map": "/booker/static/css/main.7d231838.chunk.css.map",
+    "static/js/2.834b39ce.chunk.js.LICENSE.txt": "/booker/static/js/2.834b39ce.chunk.js.LICENSE.txt",
+    "static/media/header.module.scss": "/booker/static/media/background.6f7b9766.jpg",
+    "static/media/icons8-search.f326cfeb.svg": "/booker/static/media/icons8-search.f326cfeb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17b03de7.js",
+    "static/js/2.834b39ce.chunk.js",
+    "static/css/main.7d231838.chunk.css",
+    "static/js/main.05a8f9a4.chunk.js"
+  ]
+}
